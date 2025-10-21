@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores that has 3 torpedos in one, and 3 in the other one, with 0 failing rate
+GT4500,3,0,3,0
+TORPEDO,SINGLE
+#

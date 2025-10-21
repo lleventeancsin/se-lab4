@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores that has 3 torpedos in one, and 1 in the other one, with 0 failing rate,
+GT4500,3,0,1,0
+TORPEDO,SINGLE
+#fires torpedos only from the primary for a testcase specified for checking that the primary shot twice in a row

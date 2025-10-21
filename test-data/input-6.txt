@@ -1,0 +1,4 @@
+# Same as the input-4.txt case, instead this checks if the secondary can shoot twice in a row
+GT4500,1,1,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
