@@ -1,5 +1,0 @@
-# Create a ship with stocked torpedo stores that has 10 torpedos in one, and 7 in the other one, with 0.7 failing rate,
-# so it should definitely fail after the 7th shot if i understand it right
-GT4500,10,0,7,0.7
-TORPEDO,ALL
-#fires torpedos from both bays(?) at the same time
